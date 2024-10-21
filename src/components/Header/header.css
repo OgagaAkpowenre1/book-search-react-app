@@ -1,0 +1,5 @@
+.bg-heroImg {
+    background: linear-gradient((141, 39, 174, 0.3), rgba(141, 39, 174, 0.5));
+}
+
+/* from-[rgba(141, 39, 174, 0.3)] to-[rgba(141, 39, 174, 0.5)] */
