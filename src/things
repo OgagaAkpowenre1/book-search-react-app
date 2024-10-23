@@ -1,0 +1,13 @@
+// Create the provider component
+// export const BookProvider = ({ children }) => {
+//   const [bookData, setBookData] = useState([]);
+
+// export const BookProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
+//   const [bookData, setBookData] = useState<Book[]>([]); // Using the Book type
+
+//   return (
+//     <BookContext.Provider value={{ bookData, setBookData }}>
+//       {children}
+//     </BookContext.Provider>
+//   );
+// };

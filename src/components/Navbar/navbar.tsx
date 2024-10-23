@@ -31,7 +31,7 @@ const Navbar = () => {
         >
           <ul className="text-white lg:text-custom-black lg:text-[1.7rem] lg:font-[500] lg:flex lg:items-center">
             <li className="mb-[4rem] lg:mb-0 lg:ml-[2.8rem]">
-              <Link className="hover:text-custom-purple transition-all" to={"book"}>HOME</Link>
+              <Link className="hover:text-custom-purple transition-all" to={"/"}>HOME</Link>
             </li>
 
             <li className="mb-[4rem] lg:mb-0 lg:ml-[2.8rem]">
